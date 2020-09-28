@@ -1,0 +1,6 @@
+# Interface for Telegram API
+# For more information see: https://pypi.org/project/pyTelegramBotAPI/
+pyTelegramBotAPI~=3.7.1
+
+# TO parse METAR & TAF format
+pytaf~=1.2.1
