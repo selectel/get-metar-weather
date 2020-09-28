@@ -4,4 +4,4 @@
 
 Оптимизирован под запуск в среде бессерверных вычислений (Selectel Serverless).
 
-Тестовая версия [https://t.me/GetMetarWeather_bot](@GetMetarWeather_bot) 
+Тестовая версия [@GetMetarWeather_bot](https://t.me/GetMetarWeather_bot) 
